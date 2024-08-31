@@ -1,0 +1,1003 @@
+* {
+  font-family: sans-serif;
+}
+
+.fire .box .box3 {
+  margin-top: -55px;
+  margin-left: 90px;
+}
+.fire .box .box2 {
+  margin-top: 30px;
+  margin-left: 70px;
+}
+.fire .box .box4 {
+  text-decoration: none;
+  margin-left: 600px;
+  font-size: 22px;
+  gap: 10px;
+  word-spacing: 40px;
+  margin-top: -20px;
+}
+.fire .box .box4 a {
+  text-decoration: none;
+}
+.fire .box .box5 {
+  margin-left: 1050px;
+  margin-top: -30px;
+  width: 160px;
+  height: 60px;
+  top: 71px;
+  left: 1634px;
+  gap: 0px;
+  border-radius: 80px 0px 0px 0px;
+  opacity: 0px;
+  border: 1px solid white;
+}
+.fire .box .box5 button {
+  font-family: Poppins;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 33px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  border: 1px solid white;
+}
+.fire .box .box5 button {
+  border-radius: 50px;
+}
+.fire .box .box6 {
+  margin-left: 1160px;
+  margin-top: -60px;
+  color: white;
+}
+.fire .box .box6 button {
+  border-radius: 50px;
+  background: orange;
+  color: white;
+  font-family: Poppins;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 33px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  border: 1px solid white;
+}
+.fire .box7 {
+  font-weight: 700;
+  font-size: 48px;
+  margin-top: 200px;
+  margin-left: 80px;
+}
+.fire .yozuv {
+  font-family: Nunito Sans;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 38.4px;
+  text-align: left;
+  color: #464646;
+  margin-left: 80px;
+  margin-top: 20px;
+}
+.fire .rasm {
+  margin-left: 700px;
+  font-size: 20px;
+}
+.fire .rasm img {
+  width: 650px;
+  height: 650px;
+  margin-top: -360px;
+  margin-left: -100px;
+}
+.fire .join {
+  width: 220px;
+  height: 100px;
+  margin-left: 70px;
+  margin-top: -220px;
+}
+.fire .join button {
+  background: #F48C06;
+  color: white;
+  border-radius: 150px;
+  width: 200px;
+  height: 60px;
+  font-size: 30px;
+  border: 1px solid white;
+}
+.fire .rasm2 {
+  width: 80px;
+  height: 80px;
+  top: 659px;
+  left: 400px;
+  gap: 0px;
+  opacity: 0px;
+  margin-left: 240px;
+  margin-top: -150px;
+}
+.fire .pyozuv > p {
+  width: 232px;
+  height: 36px;
+  top: 681px;
+  left: 512px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 36px;
+  text-align: left;
+  margin-left: 400px;
+  margin-top: -20px;
+}
+.fire .world {
+  margin-top: 400px;
+  text-align: center;
+  align-items: center;
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 44.8px;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+.fire .world h3 {
+  text-align: center;
+}
+.fire .rasm3 {
+  font-size: 20px;
+}
+.fire .rasm3 img {
+  width: 1000px;
+  height: 70px;
+  text-align: center;
+  margin-left: 100px;
+}
+.fire .qism2 .fbox {
+  margin-top: 200px;
+  text-align: center;
+  font-family: Poppins;
+  margin-left: 400px;
+  text-align: left;
+}
+.fire .qism2 .fbox span {
+  font-family: Poppins;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 64.8px;
+  text-align: left;
+  text-align: center;
+}
+.fire .qism2 .one {
+  text-align: center;
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 43.2px;
+  text-align: center;
+}
+.fire .qism2 .qator1 {
+  width: 400px;
+  height: 430px;
+  top: 1855px;
+  left: 225px;
+  gap: 0px;
+  border-radius: 20px 20px 20px 20px;
+  opacity: 0px;
+  border: 1px solid;
+  margin-top: 200px;
+}
+.fire .qism2 .qator1 img {
+  margin-left: 100px;
+  margin-top: -100px;
+}
+.fire .qism2 .qator1 h3 {
+  text-align: center;
+  font-family: Poppins;
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 45px;
+  text-align: center;
+  margin-top: 40px;
+}
+.fire .qism2 .qator1 p {
+  text-align: center;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 36px;
+  text-align: center;
+}
+.fire .qism2 .qator2 {
+  width: 400px;
+  height: 430px;
+  top: 1855px;
+  left: 225px;
+  gap: 0px;
+  border-radius: 20px 20px 20px 20px;
+  opacity: 0px;
+  border: 1px solid;
+  margin-left: 410px;
+  margin-top: -435px;
+}
+.fire .qism2 .qator2 img {
+  margin-left: 100px;
+  margin-top: -100px;
+}
+.fire .qism2 .qator2 h3 {
+  text-align: center;
+  font-family: Poppins;
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 45px;
+  text-align: center;
+  margin-top: 40px;
+}
+.fire .qism2 .qator2 p {
+  text-align: center;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 36px;
+  text-align: center;
+}
+.fire .qism2 .qator3 {
+  width: 400px;
+  height: 430px;
+  top: 1855px;
+  left: 225px;
+  gap: 0px;
+  border-radius: 20px 20px 20px 20px;
+  opacity: 0px;
+  border: 1px solid;
+  margin-left: 820px;
+  margin-top: -430px;
+}
+.fire .qism2 .qator3 img {
+  margin-left: 100px;
+  margin-top: -100px;
+}
+.fire .qism2 .qator3 h3 {
+  text-align: center;
+  font-family: Poppins;
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 45px;
+  text-align: center;
+  margin-top: 70px;
+}
+.fire .qism2 .qator3 p {
+  text-align: center;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 36px;
+  text-align: center;
+}
+.fire .qism3 {
+  margin-top: 190px;
+  width: 1000px;
+  height: 708px;
+  top: 2443px;
+  left: 310px;
+  gap: 0px;
+  opacity: 0px;
+  margin-left: 120px;
+}
+.fire .qism3 .span2 {
+  font-size: 44px;
+  font-weight: 600;
+  line-height: 79.2px;
+  text-align: center;
+  margin-top: 100px;
+  text-align: center;
+}
+.fire .qism3 p {
+  text-align: center;
+  font-size: 24px;
+  font-weight: 400;
+}
+.fire .qism3 .ustoz img {
+  width: 400px;
+  height: 350px;
+  top: 2751px;
+  left: 310px;
+  gap: 0px;
+  border-radius: 20px 0px 0px 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  margin-top: 46px;
+}
+.fire .qism3 .oquvchi {
+  margin-left: 600px;
+  margin-top: -774px;
+}
+.fire .qism3 .oquvchi img {
+  display: flex;
+  width: 400px;
+  height: 350px;
+  top: 2751px;
+  left: 310px;
+  gap: 0px;
+  border-radius: 20px 0px 0px 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  margin-left: 0px;
+  margin-top: 420px;
+}
+.fire .qism4 {
+  margin-top: 100px;
+}
+.fire .qism4 .span4 {
+  font-family: Poppins;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 57.6px;
+  text-align: left;
+  margin-left: 100px;
+  margin-top: 100px;
+}
+.fire .qism4 p {
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 43.2px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  margin-left: 100px;
+}
+.fire .qism4 .book {
+  margin-top: -60px;
+}
+.fire .qism4 .book img {
+  width: 475px;
+  height: 341.08px;
+  top: 3331px;
+  left: 1008px;
+  gap: 0px;
+  border-radius: 20px 0px 0px 0px;
+  opacity: 0px;
+  margin-left: 690px;
+  margin-top: -360px;
+}
+.fire .j-div {
+  margin-top: 300px;
+  font-family: Poppins;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 64.8px;
+  text-align: center;
+}
+.fire .j-yoz {
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 400;
+  margin-left: 80px;
+  text-align: center;
+}
+.fire .j-rasm {
+  margin-left: 100px;
+}
+.fire .j-rasm img {
+  width: 500px;
+  height: 400px;
+}
+.fire .o-div {
+  font-family: Poppins;
+  font-size: 40px;
+  font-weight: 600;
+  margin-left: 600px;
+  margin-top: -400px;
+}
+.fire .o-icon {
+  margin-left: 750px;
+  margin-top: 100px;
+}
+.fire .jim {
+  margin-left: 800px;
+  margin-top: -152px;
+}
+.fire .her {
+  font-size: 40px;
+  font-weight: 600;
+  margin-top: 350px;
+  margin-left: 100px;
+}
+.fire .her-yoz {
+  font-size: 22px;
+  font-weight: 400;
+  margin-left: 100px;
+}
+.fire .her-rasm {
+  margin-left: 500px;
+  width: 637.2px;
+  height: 611px;
+  margin-top: -500px;
+}
+.fire .qism7 {
+  margin-top: 300px;
+}
+.fire .qism7 img {
+  width: 617px;
+  height: 651.49px;
+  top: 5792px;
+  left: 192px;
+  gap: 0px;
+  opacity: 0px;
+  margin-top: -10px;
+}
+.fire .qism7 .span100 {
+  margin-left: 300px;
+  margin-left: 700px;
+  margin-top: -500px;
+}
+.fire .qism7 .span100 span {
+  font-family: Poppins;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 64px;
+  text-align: left;
+}
+.fire .qism7 .harf p {
+  font-family: Poppins;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 39.6px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  margin-left: 700px;
+}
+.fire .div {
+  font-family: Poppins;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 64px;
+  text-align: left;
+  margin-top: 400px;
+  margin-left: 100px;
+}
+.fire .coco-cola {
+  font-family: Poppins;
+  font-size: 22px;
+  font-weight: 400;
+  margin-top: 20px;
+  margin-left: 100px;
+}
+.fire .coco-rasm {
+  width: 408.32px;
+  height: 400px;
+  margin-left: 550px;
+  margin-top: -350px;
+}
+.fire .coco-rasm img {
+  width: 608.32px;
+  height: 500px;
+  margin-left: 80px;
+}
+.fire .fanta {
+  margin-top: 200px;
+  width: 755.24px;
+  height: 499px;
+}
+.fire .sprit {
+  font-size: 40px;
+  font-weight: 600;
+  margin-left: 900px;
+  margin-top: -400px;
+}
+.fire .spake {
+  font-size: 22px;
+  font-weight: 400;
+}
+.fire .box5 button,
+.fire .box6 button,
+.fire .join button {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+.fire .box5 button:hover {
+  background-color: #f39c12;
+  color: #fff;
+}
+.fire .box6 button:hover {
+  background-color: #1b07f9;
+  color: #fff;
+}
+.fire .join button:hover {
+  background-color: #bd0725;
+  color: #fff;
+}
+.fire .div3 .lite {
+  margin-top: 450px;
+  margin-left: 100px;
+}
+.fire .div3 .lite2 {
+  margin-left: 370px;
+  margin-top: -130px;
+}
+.fire .div3 .fire999 {
+  margin-left: 180px;
+  margin-top: 80px;
+}
+.fire .div3 .fire100 {
+  margin-left: 380px;
+  margin-top: -110px;
+}
+.fire .div3 .fire20 {
+  font-family: Nunito Sans;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 57.6px;
+  text-align: left;
+  margin-left: 700px;
+  margin-top: -400px;
+}
+.fire .div3 .fire30 {
+  margin-left: 700px;
+  font-family: Nunito Sans;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 43.2px;
+  text-align: left;
+}
+.fire .div3 .div4 {
+  width: 280px;
+  height: 80px;
+  top: 7973px;
+  left: 820px;
+  gap: 0px;
+  border-radius: 100px;
+  margin-left: 100px;
+  opacity: 0px;
+  margin-left: 200px;
+}
+.fire .div3 .div4 button {
+  border-radius: 100px;
+  width: 204px;
+  height: 43px;
+  top: 7992px;
+  left: 858px;
+  gap: 0px;
+  opacity: 0px;
+  margin-top: 300px;
+  text-align: center;
+  border: 1px solid #F48C06;
+  font-family: Nunito Sans;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 43.2px;
+  letter-spacing: 0.02em;
+  margin-top: 60px;
+  margin-left: 500px;
+  color: #F48C06;
+}
+.fire .div3 .div4 button:hover {
+  cursor: pointer;
+  color: rgb(17, 0, 255);
+  border: 1px solid rgb(17, 0, 255);
+}
+.fire .test2 {
+  margin-top: 300px;
+}
+.fire .test2 .they {
+  font-family: Nunito Sans;
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 81.84px;
+  text-align: left;
+  color: #2F327D;
+  margin-left: 100px;
+}
+.fire .test2 .they:hover {
+  cursor: pointer;
+  color: orange;
+  transition: transform 0.3s ease;
+}
+.fire .test2 .more {
+  font-family: Poppins;
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 41.6px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  margin-left: 100px;
+  margin-top: -20px;
+}
+.fire .test2 .more2 {
+  font-family: Poppins;
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 41.6px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  margin-left: 100px;
+  margin-top: -20px;
+}
+.fire .test2 .more3 {
+  font-family: Poppins;
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 41.6px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  margin-left: 100px;
+  margin-top: 20px;
+}
+.fire .test2 .div6 {
+  width: 280px;
+  height: 80px;
+  top: 7973px;
+  left: 820px;
+  gap: 0px;
+  border-radius: 100px;
+  margin-left: 100px;
+  opacity: 0px;
+  margin-left: 200px;
+}
+.fire .test2 .div6 button {
+  border-radius: 100px;
+  width: 204px;
+  height: 43px;
+  top: 7992px;
+  left: 858px;
+  gap: 0px;
+  opacity: 0px;
+  margin-top: 300px;
+  text-align: center;
+  border: 1px solid #F48C06;
+  font-family: Nunito Sans;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 43.2px;
+  letter-spacing: 0.02em;
+  margin-top: 60px;
+  margin-left: -105px;
+  color: #F48C06;
+}
+.fire .test2 .div6 button:hover {
+  cursor: pointer;
+  color: rgb(17, 0, 255);
+  border: 1px solid rgb(17, 0, 255);
+}
+.fire .test2 .div7 {
+  width: 560px;
+  height: 500px;
+  top: 8842px;
+  left: 970px;
+  gap: 0px;
+  opacity: 0px;
+  margin-left: 650px;
+  margin-top: -540px;
+}
+.fire .test2 .div7 img {
+  width: 560px;
+  height: 650px;
+}
+.fire .test2 .div7 .div8 {
+  width: 680px;
+  height: 329px;
+  top: 9334px;
+  left: 1039px;
+  gap: 0px;
+  margin-left: -100px;
+  margin-top: -320px;
+  background: #fff;
+  background: #FFFFFF;
+}
+.fire .test2 .div7 .div8 .much {
+  font-family: Nunito Sans;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 39.6px;
+  letter-spacing: 0.02em;
+  margin-left: 110px;
+  margin-top: 50px;
+  color: white;
+}
+.fire .test2 .div7 .div8 .glor {
+  font-family: Nunito Sans;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 43.2px;
+  text-align: left;
+  margin-top: 70px;
+  margin-left: 110px;
+  color: orange;
+}
+.fire .last {
+  margin-top: 300px;
+}
+.fire .last .orta {
+  font-family: Nunito Sans;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 64.8px;
+  text-align: center;
+  color: #2F327D;
+}
+.fire .last .orta2 {
+  font-family: Nunito Sans;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 43.2px;
+  text-align: center;
+  margin-top: -30px;
+}
+.fire .last img {
+  width: 480px;
+  height: 340px;
+  top: 10041px;
+  left: 200px;
+  gap: 0px;
+  border-radius: 20px 0px 0px 0px;
+  opacity: 0px;
+  margin-left: 100px;
+}
+.fire .last .button4 {
+  width: 130px;
+  height: 40px;
+  top: 10421px;
+  left: 200px;
+  gap: 0px;
+  border-radius: 50px;
+  opacity: 0px;
+}
+.fire .last .button4 button {
+  background-color: orange;
+  width: 130px;
+  height: 40px;
+  border-radius: 50px;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 36px;
+  letter-spacing: 0.02em;
+  text-align: center;
+  margin-left: 100px;
+  margin-top: 30px;
+}
+.fire .last .button4 button:hover {
+  cursor: pointer;
+  background-color: #1b07f9;
+  color: red;
+}
+.fire .last .add {
+  font-family: Poppins;
+  font-size: 26px;
+  font-weight: 500;
+  line-height: 46.8px;
+  text-align: left;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+.fire .last .add h3 {
+  margin-left: 100px;
+  font-family: Poppins;
+  font-size: 26px;
+  font-weight: 500;
+  line-height: 46.8px;
+  text-align: left;
+  margin-left: 100px;
+  margin-top: 20px;
+  margin-top: 20px;
+  margin-top: 20px;
+}
+.fire .last .add2 {
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 36px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  margin-left: 100px;
+  margin-top: -10px;
+}
+.fire .last .add3 {
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 36px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  margin-left: 100px;
+}
+.fire .last .yarim1 {
+  margin-top: -486px;
+}
+.fire .last .yarim1 img {
+  width: 220px;
+  height: 200px;
+  margin-left: 600px;
+  margin-top: -470px;
+}
+.fire .last .yarim1 .techno {
+  font-family: Poppins;
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 39.6px;
+  text-align: left;
+  margin-left: 850px;
+  margin-top: -230px;
+}
+.fire .last .yarim1 .techno h3 {
+  margin-left: 850px;
+  margin-top: -200px;
+}
+.fire .last .yarim1 .techno2 {
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 36px;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+.fire .last .yarim1 .techno2 p {
+  margin-left: 850px;
+  margin-top: -30px;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 36px;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+.fire .last .yarim2 {
+  margin-top: 240px;
+}
+.fire .last .yarim2 img {
+  width: 220px;
+  height: 200px;
+  margin-left: 600px;
+  margin-top: -470px;
+}
+.fire .last .yarim2 .techno {
+  font-family: Poppins;
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 39.6px;
+  text-align: left;
+  margin-left: 850px;
+  margin-top: -230px;
+}
+.fire .last .yarim2 .techno h3 {
+  margin-left: 850px;
+  margin-top: -200px;
+}
+.fire .last .yarim2 .techno2 {
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 36px;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+.fire .last .yarim2 .techno2 p {
+  margin-left: 850px;
+  margin-top: -30px;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 36px;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+.fire .last .yarim3 {
+  margin-top: 240px;
+}
+.fire .last .yarim3 img {
+  width: 220px;
+  height: 200px;
+  margin-left: 600px;
+  margin-top: -470px;
+}
+.fire .last .yarim3 .techno {
+  font-family: Poppins;
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 39.6px;
+  text-align: left;
+  margin-left: 850px;
+  margin-top: -230px;
+}
+.fire .last .yarim3 .techno h3 {
+  margin-left: 850px;
+  margin-top: -200px;
+}
+.fire .last .yarim3 .techno2 {
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 36px;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+.fire .last .yarim3 .techno2 p {
+  margin-left: 850px;
+  margin-top: -30px;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 36px;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+.fire .lite img,
+.fire .lite2 img,
+.fire .free1 img,
+.fire .free2 img,
+.fire .free3 img,
+.fire .ustoz img,
+.fire .oquvchi img,
+.fire .coco-rasm img,
+.fire .book img,
+.fire .j-rasm img,
+.fire .o-icon img,
+.fire .her-rasm img,
+.fire .rasm3 img,
+.fire .fanta img,
+.fire .fire999 img,
+.fire .fire100 img,
+.fire .div7 img,
+.fire .yarim1 img,
+.fire .yarim2 img,
+.fire .yarim3 img,
+.fire .group img,
+.fire .qism7 img {
+  transition: transform 0.3s ease; /* Effektni yumshatish */
+}
+.fire .lite img:hover,
+.fire .lite2 img:hover,
+.fire .yarim1 img:hover,
+.fire .yarim2 img:hover,
+.fire .yarim3 img:hover,
+.fire .free1 img:hover,
+.fire .group img:hover,
+.fire .fire999 img:hover,
+.fire .fire100 img:hover,
+.fire .div7 img:hover,
+.fire .free2 img:hover,
+.fire .free3 img:hover,
+.fire .ustoz img:hover,
+.fire .oquvchi img:hover,
+.fire .coco-rasm img:hover,
+.fire .fanta img:hover,
+.fire .book img:hover,
+.fire .j-rasm img:hover,
+.fire .o-icon img:hover,
+.fire .her-rasm img:hover,
+.fire .rasm3 img:hover,
+.fire .qism7 img:hover {
+  transform: scale(1.05); /* Hover holatidagi kattalashtirish */
+}
+.fire .div2 {
+  width: 280px;
+  height: 80px;
+  top: 7973px;
+  left: 820px;
+  gap: 0px;
+  border-radius: 100px;
+  opacity: 0px;
+  margin-left: 200px;
+  text-align: center;
+}
+.fire .div2 button {
+  border-radius: 100px;
+  width: 204px;
+  height: 43px;
+  top: 7992px;
+  left: 858px;
+  gap: 0px;
+  opacity: 0px;
+  margin-top: 300px;
+  text-align: center;
+  border: 1px solid #F48C06;
+  font-family: Nunito Sans;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 43.2px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  margin-left: 330px;
+  color: #F48C06;
+}
+.fire .div2 button:hover {
+  cursor: pointer;
+  color: rgb(17, 0, 255);
+  border: 1px solid rgb(17, 0, 255);
+}/*# sourceMappingURL=style.css.map */
